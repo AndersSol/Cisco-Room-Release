@@ -10,6 +10,8 @@ When a meeting ends early, this macro adds a "Release room" button to the device
 
 - Cisco video device (Room, Board, or Desk series)
 - RoomOS 10+ or MTR mode
+- Device registered to Cisco Control Hub
+- Hybrid Calendar connected (for booking integration)
 - Macro provisioning enabled on the device
 
 ## Installation
