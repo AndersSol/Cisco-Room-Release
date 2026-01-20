@@ -4,7 +4,12 @@ A macro for Cisco video devices that lets users release room bookings early, fre
 
 ## What it does
 
-When a meeting ends early, this macro adds a "Release room" button to the device's Control Panel. After a call ends, it shows a countdown prompt and auto-releases the booking if no one responds. Works on both RoomOS and Microsoft Teams Rooms (MTR) devices.
+Lets users release a room booking before it ends, freeing up the room for others. Two release methods:
+
+- **Manual**: Tap "Release room" in the Control Panel to release immediately
+- **Automatic**: After a call ends, a countdown prompt appears and auto-releases if no one responds
+
+Works on both RoomOS and Microsoft Teams Rooms (MTR) devices.
 
 ## Requirements
 
